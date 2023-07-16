@@ -5,9 +5,10 @@ date: 2023-07-10 22:48
 image: /Blogs/1.Chandrayaan-3/images/c3.jpg
 headerImage: true
 tag:
-- markdown
-- components
-- extra
+- Chandrayaan-3
+- ISRO
+- Astronomy
+- Science & Technology
 category: blog
 author: prajwalbillawa
 description: Will the Chandrayaan-3 finally make contact with the Lunar Surface?
@@ -32,9 +33,9 @@ The Moon is our closest neighbor in the vast expanse of space. It has existed lo
 
 Studying the Moon provides us with a way to understand the Solar System’s early history. Few models can explain the creation of the moon. Variations in the lunar surface studied by mapping its surface was key in understanding the origin and evolution of the moon.
 
-The Lunar Surface
 
 ![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
+<figcaption class="caption">The Lunar Surface</figcaption>
 
 In 2008, the Chandrayaan-1 Orbiter made an important and exciting discovery from its mass spectra readings.
 
@@ -65,9 +66,9 @@ It was observed that the lander’s trajectory began to deviate at about 2.1km f
 
 Then ISRO Chairman, Dr. K. Sivan stated that “it must have been a hard landing”, which indicated that the lander had crashed on the lunar surface. Both ISRO and NASA attempted to communicate with the lander, but got no response from the lander.
 
-Chandrayaan-2 Impact Region
 
 ![]({% link Blogs/1.Chandrayaan-3/images/C2impact.png %})
+<figcaption class="caption">Chandrayaan-2 Impact Region</figcaption>
 
 Vikram's impact site was later located at 70.8810°S 22.7840°E by the LROC team after receiving helpful input from Shanmuga Subramanian, a volunteer from Chennai, Tamil Nadu. The spacecraft shattered upon impact, with debris scattered in an area spanning kilometres. It was concluded that the crash was due to a software glitch.
 
@@ -94,9 +95,9 @@ The Chandrayaan-3 mission module will consist of:
 
 The launcher identified for Chandrayaan-3 is GSLV-Mark 3 which will place the integrated module in an Elliptic Parking Orbit. The PM will remain in orbit around the Moon and act as a communications relay satellite.
 
-Chandrayaan-3 Integrated Module
 
 ![]({% link Blogs/1.Chandrayaan-3/images/C3IntegratedModule.png %})
+<figcaption class="caption">Chandrayaan-3 Integrated Module</figcaption>
 
 The Mass and Power specifications of the modules are listed below.
 
@@ -131,45 +132,20 @@ A vast array of sensors are also present on the Lander. They are listed under.
 
 The Scientific payloads carried onboard the Lander are:
 
-Payload
-
-Abbreviation
-
-Description
-
-Radio Anatomy of Moon Bound Hypersensitive ionosphere and Atmosphere
-
-RAMBHA
-
-To measure near surface plasma density and its changes with time
-
-Chanda’s Surface Thermo-physical Experiment
-
-ChaSTE
-
-Measure thermal properties of lunar surface near polar region
-
-Instrument for Lunar Seismic Activity
-
-ILSA
-
-Measure seismicity around the landing site and delineating the structure of lunar crust and mantle
-
-Laser Retroreflector Array
-
-LRA
-
-Understand the dynamics of the moon
+| Payload | Abbreviation | Description |
+| --- | --- | --- |
+| Radio Anatomy of Moon Bound Hypersensitive ionosphere and Atmosphere | RAMBHA | To measure near surface plasma density and its changes with time |
+| Chanda’s Surface Thermo-physical Experiment | ChaSTE | Carry out measurements of thermal properties of lunar surface near polar region |
+| Instrument for Lunar Seismic Activity | ILSA | Measure seismicity around the landing site and delineating the structure of lunar crust and mantle |
+| Laser Retroreflector Array | LRA | Understand the dynamics of the moon |
 
   
 
-Chandrayaan-3 Lander Module Front View
-
-Chandrayaan-3 Lander Module Side View
-
 ![]({% link Blogs/1.Chandrayaan-3/images/C3lander1.png %})
+<figcaption class="caption">Chandrayaan-3 Lander Module Front View</figcaption>
 
 ![]({% link Blogs/1.Chandrayaan-3/images/C3lander2.png %})
+<figcaption class="caption">Chandrayaan-3 Lander Module Side View</figcaption>
 
   
 
@@ -177,69 +153,42 @@ Chandrayaan-3 Lander Module Side View
 
 The Scientific payloads carried onboard the Rover are:
 
-Payload
-
-Abbreviation
-
-Description
-
-Alpha Particle X-Ray Spectrometer
-
-APXS
-
-Determine the elemental composition of Lunar soil and rocks
-
-Laser Induced Breakdown Spectroscope
-
-LIBS
-
-Derive chemical composition and infer mineralogical composition
+| Payload | Abbreviation | Description |
+| --- | --- | --- |
+| Alpha Particle X-Ray Spectrometer | APXS | To determine the elemental composition of Lunar soil and rocks around the lunar landing site |
+| Laser Induced Breakdown Spectroscope | LIBS | Qualitative and quantitative elemental analysis & To derive the chemical Composition and infer mineralogical composition  |
 
   
 
-Chandrayaan-3 Rover
-
 ![]({% link Blogs/1.Chandrayaan-3/images/C3Rover.png %})
+<figcaption class="caption">Chandrayaan-3 Rover</figcaption>
 
 ### Propulsion Module
 
 The Scientific payloads onboard the PM are:
 
-Payload
-
-Abbreviation
-
-Description
-
-Spectro-polarimetry of HAbitable Planet Earth
-
-SHAPE
-
-Determine quality of habitability of future exo-planets found based on reflected light
+| Payload | Abbreviation | Description |
+| --- | --- | --- |
+| Spectro-polarimetry of HAbitable Planet Earth | SHAPE | Determine quality of habitability of future exo-planets found based on reflected light |
 
   
-
-Chandrayaan-3 Propulsion Module
-
 ![]({% link Blogs/1.Chandrayaan-3/images/C3PM.png %})
-
+<figcaption class="caption">Chandrayaan-3 Propulsion Module</figcaption>
   
 
 ## Mission Profile
----------------
 
 The mission is currently scheduled to launch on 14 July 2023 at 9:05 UTC (2:35 p.m. IST), with a possibility to launch as late as 19 July, from Satish Dhawan Space Center in Sriharikota, India. The PM will bring the lander/rover will into a 100 km circular polar lunar orbit and separate.
 
 The lander will then touch down with the rover in the south polar region of the Moon, near 69.37 S, 32.35 E. The lander and rover are designed to operate for one lunar daylight period (about 14 Earth days).
 
-Chandrayaan-3 Mission Profile
 
 ![]({% link Blogs/1.Chandrayaan-3/images/C3MissionProfile.png %})
+<figcaption class="caption">Chandrayaan-3 Mission Profile</figcaption>
 
   
 
 # What makes Chandrayaan-3 different from before?
-===============================================
 
 Having understood and learnt from the mistakes of Chandrayaan-2, Chandrayaan-3 improved its design to ensure a successful landing this time.
 
@@ -255,7 +204,6 @@ It incorporates the following:
     
 
 # Conclusion
-==========
 
 The outcome of the Chandrayaan-3 mission will be a major milestone in the story of India’s Space Program. Success of the mission would mean unravelling a vast portion about our cosmic past and will also pave way for future bold expeditions.
 

@@ -1,5 +1,5 @@
 ---
-title: "Chandraya"an-3
+title: "Chandrayaan-3"
 layout: post
 date: 2023-07-10 22:48
 image: /Blogs/1.Chandrayaan-3/images/c3.jpg

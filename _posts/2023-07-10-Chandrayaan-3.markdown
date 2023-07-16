@@ -68,9 +68,10 @@ It was observed that the lander’s trajectory began to deviate at about 2.1km f
 
 Then ISRO Chairman, Dr. K. Sivan stated that “it must have been a hard landing”, which indicated that the lander had crashed on the lunar surface. Both ISRO and NASA attempted to communicate with the lander, but got no response from the lander.
 
-
-![]({% link Blogs/1.Chandrayaan-3/images/C2impact.png %})
-<figcaption class="caption">Chandrayaan-2 Impact Region</figcaption>
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C2impact.png" alt="Alt Text">
+    <figcaption class="caption">Chandrayaan-2 Impact Region</figcaption>
+</p>
 
 Vikram's impact site was later located at 70.8810°S 22.7840°E by the LROC team after receiving helpful input from Shanmuga Subramanian, a volunteer from Chennai, Tamil Nadu. The spacecraft shattered upon impact, with debris scattered in an area spanning kilometres. It was concluded that the crash was due to a software glitch.
 
@@ -97,9 +98,10 @@ The Chandrayaan-3 mission module will consist of:
 
 The launcher identified for Chandrayaan-3 is GSLV-Mark 3 which will place the integrated module in an Elliptic Parking Orbit. The PM will remain in orbit around the Moon and act as a communications relay satellite.
 
-
-![]({% link Blogs/1.Chandrayaan-3/images/C3IntegratedModule.png %})
-<figcaption class="caption">Chandrayaan-3 Integrated Module</figcaption>
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3IntegratedModule.png" alt="Alt Text">
+    <figcaption class="caption">Chandrayaan-3 Integrated Module</figcaption>
+</p>
 
 The Mass and Power specifications of the modules are listed below.
 
@@ -143,12 +145,12 @@ The Scientific payloads carried onboard the Lander are:
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="Blogs/1.Chandrayaan-3/images/C3lander1.png" alt="Alt Text">
+        <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3lander1.png" alt="Alt Text">
         <figcaption class="caption">Chandrayaan-3 Lander Module Front View</figcaption>
     </div>
 
     <div class="toright">
-        <img class="image" src="Blogs/1.Chandrayaan-3/images/C3lander2.png" alt="Alt Text">
+        <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3lander2.png" alt="Alt Text">
         <figcaption class="caption">Chandrayaan-3 Lander Module Side View</figcaption>
     </div>
 </div>  
@@ -171,7 +173,10 @@ The Scientific payloads carried onboard the Rover are:
 | Laser Induced Breakdown Spectroscope | LIBS | Qualitative and quantitative elemental analysis & To derive the chemical Composition and infer mineralogical composition  |
 
   
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3Rover.png" alt="Alt Text">
+    <figcaption class="caption">Chandrayaan-3 Rover</figcaption>
+</p>
 ![]({% link Blogs/1.Chandrayaan-3/images/C3Rover.png %})
 <figcaption class="caption">Chandrayaan-3 Rover</figcaption>
 
@@ -183,7 +188,10 @@ The Scientific payloads onboard the PM are:
 | --- | --- | --- |
 | Spectro-polarimetry of HAbitable Planet Earth | SHAPE | Determine quality of habitability of future exo-planets found based on reflected light |
 
-  
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3PM.png" alt="Alt Text">
+    <figcaption class="caption">Chandrayaan-3 Propulsion Module</figcaption>
+</p>  
 ![]({% link Blogs/1.Chandrayaan-3/images/C3PM.png %})
 <figcaption class="caption">Chandrayaan-3 Propulsion Module</figcaption>
   
@@ -194,7 +202,10 @@ The mission is currently scheduled to launch on 14 July 2023 at 9:05 UTC (2:35 p
 
 The lander will then touch down with the rover in the south polar region of the Moon, near 69.37 S, 32.35 E. The lander and rover are designed to operate for one lunar daylight period (about 14 Earth days).
 
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3MissionProfile.png" alt="Alt Text">
+    <figcaption class="caption">Chandrayaan-3 Mission Profile</figcaption>
+</p>
 ![]({% link Blogs/1.Chandrayaan-3/images/C3MissionProfile.png %})
 <figcaption class="caption">Chandrayaan-3 Mission Profile</figcaption>
 

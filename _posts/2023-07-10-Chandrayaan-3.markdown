@@ -92,6 +92,13 @@ Chandrayaan-3 Integrated Module
 
 The Mass and Power specifications of the modules are listed below.
 
+|  | Mass (kg) | Power (W) |
+| --- | --- | --- |
+| Propulsion Module | 2148 | 758 |
+| Lander Module | 1752 | 738 |
+| Rover | 26 | 50 |
+| Total | 3900 | 1546 |
+
 Mass (kg)
 
 Power (W)

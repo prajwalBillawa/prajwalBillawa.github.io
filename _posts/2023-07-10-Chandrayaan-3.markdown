@@ -12,7 +12,15 @@ category: blog
 author: prajwalbillawa
 description: Will the Chandrayaan-3 finally make contact with the Lunar Surface?
 ---
-
+<style>
+      table,
+      th,
+      td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+</style>
 
 The Chandrayaan-3 is the third daring lunar exploration mission after Chandrayaan-1 (2008) and Chandrayaan-2 (2019) conducted by the Indian Space Research Organization (ISRO).
 

@@ -4,42 +4,36 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Prajwal! and I am an Engineer</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I was born in Bengaluru, India and was always amazed by technology and machines. Growing up, I couldn't help myself from fidgeting with all the appliances at home. An Engineering degree in Electronics and Communication Engineering was the perfect way to funnel my interests towards a direction.</p>
+
+<p>You can say I am a tech passionate and self-driven individual with a hardware tinkering addiction, with a love for of Astronomy, Electronics and History.</p>
+
+<p>I love creating stuff and blogging on topics that intrigue me. Hang around if you find my content interesting! :) </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Analog Circuit Design</li>
+	<li>Digital Circuit Design</li>
+	<li>Electromagnetics</li>
+	<li>Signal Processing</li>
+	<li>Control Systems & Robotics</li>
+	<li>Embedded Systems</li>
+	<li>Linux</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>C</li>
+	<li>Matlab</li>
+	<li>Systems Engineering & System Safety</li>
+	<li>Failure Analysis & Problem Solving</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/prajwalbillawa/3-stage-Processor">3 Stage Processor</a></li>
+	<li><a href="https://github.com/prajwalbillawa/BLUE">B.L.U.E</a></li>
+	<li><a href="https://github.com/prajwalbillawa/Analog-Circuit-Design">Analog Circuit Design</a></li>
 </ul>

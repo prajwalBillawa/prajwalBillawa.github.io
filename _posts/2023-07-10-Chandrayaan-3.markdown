@@ -39,7 +39,7 @@ Studying the Moon provides us with a way to understand the Solar System’s earl
 </p>
 
 
-![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
+p align="center"> ![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
 <figcaption class="caption">The Lunar Surface</figcaption>
 
 In 2008, the Chandrayaan-1 Orbiter made an important and exciting discovery from its mass spectra readings.

@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Prajwal Billawa
+bio: Electronics Engineer and Space Enthusiast
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,17 +16,17 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://prajwalbillawa.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+ analytics-google: G-QD0SEC5VYL
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+instagram: prajwal_billawa/
+linkedin: prajwal-billawa-814728189
+github: prajwalbillawa/
+email: prajwal.billawa@gmail.com
 
 authors:
   johndoe:

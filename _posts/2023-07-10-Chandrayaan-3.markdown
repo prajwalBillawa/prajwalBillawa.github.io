@@ -1,9 +1,24 @@
+---
+title: "Chandraya"an-3
+layout: post
+date: 2023-07-10 22:48
+image: /Blogs/1.Chandrayaan-3/images/c3.jpg
+headerImage: true
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: prajwalbillawa
+description: Will the Chandrayaan-3 finally make contact with the Lunar Surface?
+---
+
+
 The Chandrayaan-3 is the third daring lunar exploration mission after Chandrayaan-1 (2008) and Chandrayaan-2 (2019) conducted by the Indian Space Research Organization (ISRO).
 
 It will be a highly complex mission that will demonstrate ISRO’s capability of safe and soft landing on the lunar surface and rover mobility; and is expected to further India's scientific exploration of the moon.
 
-Why is the Moon so Important?
-=============================
+# Why is the Moon so Important?
 
 The Moon is our closest neighbor in the vast expanse of space. It has existed long before the very beginning of mankind and was seen as a mystical object in the skies of our ancestors. But fast-forward to the 21st century, how much exactly do we know about our neighbour?
 
@@ -21,19 +36,19 @@ Further studies were required by carefully examining the lunar surface to re-aff
 
 The Lunar South pole is especially interesting because of the lunar surface area that remains in shadow is much larger than that at the North Pole. There could be a possibility of presence of water in permanently shadowed areas around it.
 
-Introduction
+# Introduction
 ============
 
 Chandrayaan-3 is a follow-on mission to the partially successful Chandrayaan-2, which saw the perfect insertion of the Orbiter into Lunar Polar Orbit, but failed at landing the Vikram lander on the lunar surface. The goal of Chandrayaan-3 is similar to its predecessor's, which is to demonstrate end-to-end capability in safe landing and rover maneuvering on the lunar surface.
 
-What happened to Chandrayaan-2?
+# What happened to Chandrayaan-2?
 ===============================
 
 Chandrayaan-2 set out to confirm the presence of water near the Lunar South Pole. This type of mission would be the first for ISRO as a soft landing and rover maneuvering operation on another stellar body had never been carried out before by the organization in the past.
 
 The designed space craft consisted of an Orbiter, Lander (named Vikram Lander) and a Rover (named Pragyaan Rover).
 
-Mission Aftermath
+## Mission Aftermath
 -----------------
 
 By 1st September 2019, Chandrayaan-2 entered a circular Lunar Polar Oribt, which meant the mission was set for the next phase, which was the most complex part of the entire mission; Soft landing on the lunar surface. Vikram began its descent on 6 September 2019 and was to be performed by the on-board computers on Vikram, with mission control unable to make corrections.
@@ -48,10 +63,10 @@ Chandrayaan-2 Impact Region
 
 Vikram's impact site was later located at 70.8810°S 22.7840°E by the LROC team after receiving helpful input from Shanmuga Subramanian, a volunteer from Chennai, Tamil Nadu. The spacecraft shattered upon impact, with debris scattered in an area spanning kilometres. It was concluded that the crash was due to a software glitch.
 
-Chandrayaan-3
+# Chandrayaan-3
 =============
 
-Mission Objectives
+## Mission Objectives
 ------------------
 
 The mission objectives of Chandrayaan-3 are:
@@ -60,7 +75,7 @@ The mission objectives of Chandrayaan-3 are:
 2.  Demonstrate Rover mobility on Moon’s surface.
 3.  Conduct in-situ scientific experiments.
 
-Design
+## Design
 ------
 
 The Chandrayaan-3 mission module will consist of:
@@ -222,7 +237,7 @@ Chandrayaan-3 Propulsion Module
 
   
 
-Mission Profile
+## Mission Profile
 ---------------
 
 The mission is currently scheduled to launch on 14 July 2023 at 9:05 UTC (2:35 p.m. IST), with a possibility to launch as late as 19 July, from Satish Dhawan Space Center in Sriharikota, India. The PM will bring the lander/rover will into a 100 km circular polar lunar orbit and separate.
@@ -235,7 +250,7 @@ Chandrayaan-3 Mission Profile
 
   
 
-What makes Chandrayaan-3 different from before?
+# What makes Chandrayaan-3 different from before?
 ===============================================
 
 Having understood and learnt from the mistakes of Chandrayaan-2, Chandrayaan-3 improved its design to ensure a successful landing this time.
@@ -251,7 +266,7 @@ It incorporates the following:
     Chandrayaan-3 will feature two "lander hazard detection & avoidance cameras" to assist in coordination with the orbiter and mission control as compared to the single camera on its predecessor.
     
 
-Conclusion
+# Conclusion
 ==========
 
 The outcome of the Chandrayaan-3 mission will be a major milestone in the story of India’s Space Program. Success of the mission would mean unravelling a vast portion about our cosmic past and will also pave way for future bold expeditions.

@@ -37,19 +37,19 @@ Further studies were required by carefully examining the lunar surface to re-aff
 The Lunar South pole is especially interesting because of the lunar surface area that remains in shadow is much larger than that at the North Pole. There could be a possibility of presence of water in permanently shadowed areas around it.
 
 # Introduction
-============
+
 
 Chandrayaan-3 is a follow-on mission to the partially successful Chandrayaan-2, which saw the perfect insertion of the Orbiter into Lunar Polar Orbit, but failed at landing the Vikram lander on the lunar surface. The goal of Chandrayaan-3 is similar to its predecessor's, which is to demonstrate end-to-end capability in safe landing and rover maneuvering on the lunar surface.
 
 # What happened to Chandrayaan-2?
-===============================
+
 
 Chandrayaan-2 set out to confirm the presence of water near the Lunar South Pole. This type of mission would be the first for ISRO as a soft landing and rover maneuvering operation on another stellar body had never been carried out before by the organization in the past.
 
 The designed space craft consisted of an Orbiter, Lander (named Vikram Lander) and a Rover (named Pragyaan Rover).
 
 ## Mission Aftermath
------------------
+
 
 By 1st September 2019, Chandrayaan-2 entered a circular Lunar Polar Oribt, which meant the mission was set for the next phase, which was the most complex part of the entire mission; Soft landing on the lunar surface. Vikram began its descent on 6 September 2019 and was to be performed by the on-board computers on Vikram, with mission control unable to make corrections.
 
@@ -64,10 +64,10 @@ Chandrayaan-2 Impact Region
 Vikram's impact site was later located at 70.8810°S 22.7840°E by the LROC team after receiving helpful input from Shanmuga Subramanian, a volunteer from Chennai, Tamil Nadu. The spacecraft shattered upon impact, with debris scattered in an area spanning kilometres. It was concluded that the crash was due to a software glitch.
 
 # Chandrayaan-3
-=============
+
 
 ## Mission Objectives
-------------------
+
 
 The mission objectives of Chandrayaan-3 are:
 
@@ -76,7 +76,7 @@ The mission objectives of Chandrayaan-3 are:
 3.  Conduct in-situ scientific experiments.
 
 ## Design
-------
+
 
 The Chandrayaan-3 mission module will consist of:
 
@@ -92,40 +92,13 @@ Chandrayaan-3 Integrated Module
 
 The Mass and Power specifications of the modules are listed below.
 
-|  | Mass (kg) | Power (W) |
-| --- | --- | --- |
-| Propulsion Module | 2148 | 758 |
-| Lander Module | 1752 | 738 |
-| Rover | 26 | 50 |
-| Total | 3900 | 1546 |
+|                   | Mass (kg) | Power (W) |
+|        ---        |    ---    |    ---    |
+| Propulsion Module |   2148    |    758    |
+|   Lander Module   |   1752    |    738    |
+|       Rover       |    26     |     50    |
+|       Total       |   3900    |    1546   |
 
-Mass (kg)
-
-Power (W)
-
-Propulsion Module
-
-2148
-
-758
-
-Lander Module
-
-1752
-
-738
-
-Rover
-
-26
-
-50
-
-Total
-
-3900
-
-1546
 
 The Lander houses 4 Reaction wheels for attitude control, each capable of generating 10Nms of Angular momentum and 0.1Nm of Torque.
 

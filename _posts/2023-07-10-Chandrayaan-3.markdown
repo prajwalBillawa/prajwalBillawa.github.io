@@ -34,8 +34,8 @@ The Moon is our closest neighbor in the vast expanse of space. It has existed lo
 Studying the Moon provides us with a way to understand the Solar System’s early history. Few models can explain the creation of the moon. Variations in the lunar surface studied by mapping its surface was key in understanding the origin and evolution of the moon.
 
 <p align="center">
-  ![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
-<figcaption class="caption">The Lunar Surface</figcaption>
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/whymoon.png" alt="Alt Text">
+    <figcaption class="caption">The Lunar Surface</figcaption>
 </p>
 
 

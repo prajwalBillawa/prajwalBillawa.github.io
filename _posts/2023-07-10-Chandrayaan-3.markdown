@@ -33,6 +33,11 @@ The Moon is our closest neighbor in the vast expanse of space. It has existed lo
 
 Studying the Moon provides us with a way to understand the Solar System’s early history. Few models can explain the creation of the moon. Variations in the lunar surface studied by mapping its surface was key in understanding the origin and evolution of the moon.
 
+<p align="center">
+  ![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
+<figcaption class="caption">The Lunar Surface</figcaption>
+</p>
+
 
 ![]({% link Blogs/1.Chandrayaan-3/images/whymoon.png %})
 <figcaption class="caption">The Lunar Surface</figcaption>
@@ -139,7 +144,17 @@ The Scientific payloads carried onboard the Lander are:
 | Instrument for Lunar Seismic Activity | ILSA | Measure seismicity around the landing site and delineating the structure of lunar crust and mantle |
 | Laser Retroreflector Array | LRA | Understand the dynamics of the moon |
 
-  
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="Blogs/1.Chandrayaan-3/images/C3lander1.png" alt="Alt Text">
+        <figcaption class="caption">Chandrayaan-3 Lander Module Front View</figcaption>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="Blogs/1.Chandrayaan-3/images/C3lander2.png" alt="Alt Text">
+        <figcaption class="caption">Chandrayaan-3 Lander Module Side View</figcaption>
+    </div>
+</div>  
 
 ![]({% link Blogs/1.Chandrayaan-3/images/C3lander1.png %})
 <figcaption class="caption">Chandrayaan-3 Lander Module Front View</figcaption>

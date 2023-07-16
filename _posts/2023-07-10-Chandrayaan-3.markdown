@@ -155,14 +155,6 @@ The Scientific payloads carried onboard the Lander are:
     </div>
 </div>  
 
-![]({% link Blogs/1.Chandrayaan-3/images/C3lander1.png %})
-<figcaption class="caption">Chandrayaan-3 Lander Module Front View</figcaption>
-
-![]({% link Blogs/1.Chandrayaan-3/images/C3lander2.png %})
-<figcaption class="caption">Chandrayaan-3 Lander Module Side View</figcaption>
-
-  
-
 ### Rover
 
 The Scientific payloads carried onboard the Rover are:
@@ -177,8 +169,6 @@ The Scientific payloads carried onboard the Rover are:
     <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3Rover.png" alt="Alt Text">
     <figcaption class="caption">Chandrayaan-3 Rover</figcaption>
 </p>
-![]({% link Blogs/1.Chandrayaan-3/images/C3Rover.png %})
-<figcaption class="caption">Chandrayaan-3 Rover</figcaption>
 
 ### Propulsion Module
 
@@ -192,9 +182,7 @@ The Scientific payloads onboard the PM are:
     <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3PM.png" alt="Alt Text">
     <figcaption class="caption">Chandrayaan-3 Propulsion Module</figcaption>
 </p>  
-![]({% link Blogs/1.Chandrayaan-3/images/C3PM.png %})
-<figcaption class="caption">Chandrayaan-3 Propulsion Module</figcaption>
-  
+
 
 ## Mission Profile
 
@@ -206,8 +194,6 @@ The lander will then touch down with the rover in the south polar region of the 
     <img class="image" src="https://prajwalbillawa.github.io/Blogs/1.Chandrayaan-3/images/C3MissionProfile.png" alt="Alt Text">
     <figcaption class="caption">Chandrayaan-3 Mission Profile</figcaption>
 </p>
-![]({% link Blogs/1.Chandrayaan-3/images/C3MissionProfile.png %})
-<figcaption class="caption">Chandrayaan-3 Mission Profile</figcaption>
 
   
 

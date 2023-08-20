@@ -12,7 +12,7 @@ tag:
 - Make in India
 category: blog
 author: prajwalbillawa
-description: India's Semiconductor Ambitions: Then, Now and Tomorrow
+description: India's Semiconductor Ambitions - Then, Now and Tomorrow
 ---
 <style>
       table,

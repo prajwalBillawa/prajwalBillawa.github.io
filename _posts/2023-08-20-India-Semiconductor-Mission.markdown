@@ -1,17 +1,19 @@
 ---
-title: "Markdown Common Elements"
+title: "India's Semiconductor Mission"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
+date: 2018-20-24 22:00
+image: /Blogs/2.ISM/images/panel.png
 headerImage: false
 hidden: false
 tag:
-- markdown
-- elements
-star: true
+- India Semiconductor Mission
+- Semiconductors
+- Science & Technology
+- Make in India
+star: false
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: prajwalbillawa
+description: India's Semiconductor Ambitions - Then, Now and Tomorrow
 ---
 
 The 21st century is widely regarded as the digital age, marked by continuous leaps and bounds in various domains such as technology, healthcare, alternative energy, social networking, and scientific discoveries, with each passing year.

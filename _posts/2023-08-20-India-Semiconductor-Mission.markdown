@@ -1,5 +1,5 @@
 ---
-title: "India Semiconductor Mission"
+title: "India's Semiconductor Mission"
 layout: post
 date: 2023-08-20 18:00
 image: /Blogs/2.ISM/images/panel.jpg

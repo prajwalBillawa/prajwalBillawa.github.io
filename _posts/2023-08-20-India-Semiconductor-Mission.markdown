@@ -10,6 +10,8 @@ tag:
 - Semiconductors
 - Science & Technology
 - Make in India
+- Geopolitics
+- Manufacturing
 star: false
 category: blog
 author: prajwalbillawa

@@ -35,7 +35,6 @@ A semiconductor chip can consist of more than 1 billion nanometre sized semicond
 These chips play a crucial part in the functioning of all modern electronics and information and communications technology products.
 
 # Introduction
-As we begin to see the dawn of a global chip war, India has grasped with noth hands, the opportunity of being recognized as a global semiconductor player.
 
 ## Why are Chips that Important though?
 
@@ -56,7 +55,10 @@ The vision of Atmanirbhar Bharat in electronics & semiconductors was given furth
 In the contemporary world, power is built on a foundation of computer chips, influencing military, economic, and geopolitical dynamics. The United States has maintained its superpower status by leading advancements in computer chip technology. However, the US's dominance in this area is facing challenges due to the assumption that globalizing chip manufacturing by including its allies like Taiwan, Korea and Europe, benefits American interests. 
 
 China is investing heavily in its own chip production to catch up, and this competition for control over the industry has significant implications for the future. China spends more money importing chips than buying oil, and they are China’s greatest external vulnerability as they are fundamentally reliant on foreign chips. But with 37% of the global supply of chips being made in Taiwan, within easy range of Chinese missiles, the West’s fear is that a solution may be close at hand.
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/two.png" alt="Alt Text">
+    <figcaption class="caption">US China Chip War</figcaption>
+</p>
 As the next decade heads towards an era of Artificial Intelligence, both the US and China find themselves lacking a distinct edge in data and algorithms. This brings computing power into the spotlight, where the US is clearly ahead right now. But with China’s persistence in playing catch-up and US losing its innovative edge, the inevitability of the Taiwan conflict comes into focus.
 
 The competition for chips will only intensify and time will only tell who wins.
@@ -72,14 +74,20 @@ China and Taiwan have cultivated robust ecosystems with extensive government bac
 
 ## What it takes to build a Semiconductor Fab?
 Acknowledging high demand, it is not easy to ramp up the manufacturing of chips on short notice as it requires time to set up chip foundries. It is a difficult, expensive and time-consuming process. A report published in Bloomberg quint tells "Manufacturing a chip typically takes more than three months and involves giant factories, dust-free rooms, multi-million-dollar machines, molten tin and lasers.”
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/three.png" alt="Alt Text">
+    <figcaption class="caption">Intel Report on Building a Fab in Ireland</figcaption>
+</p>
 There are a lot of aspects to look into. This includes, sourcing lithography tools from global manufacturers, having suitable infrastructure such as a vast area of land, copious amounts of water, water recycling system, electricity lines, and labour power, among other things. Equipment alone can cost up to $2 billion. Adding to that, the infrastructural cost of setting up a fab will be about $200 million to $300 million. Plus, there will also be a technology transfer fee levied by the companies issuing the lithographic tools to the fabrication plants.
 
 # Case Study - Semiconductor Complex Limited
 
 ## Overview
 In the 1980s, the Indian government attempted to follow China, Taiwan, Malaysia, Korea, and Singapore in creating their own semiconductor manufacturing national champion.
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/four.png" alt="Alt Text">
+    <figcaption class="caption">Semiconductor Complex Limited, Mohali</figcaption>
+</p>
 SCL was formed to develop India's ambitions for establishing a semiconductor manufacturing industry. In 1976, the Indian Government approved the formation of SCL and production began in 1984. SCL aimed to design and manufacture cutting-edge circuits and electronics, serving as the foundation for a native Indian electronics industry. 
 
 ## Progress at SCL
@@ -91,7 +99,10 @@ SCL was India’s only major semiconductor manufacturing company. It had a produ
 ## Fire at SCL
 
 SCL’s ambitious plans came to a halt on February 7th 1989, when a mysterious fire in the complex let to the destruction of its production line. The fire also damaged India’s semiconductor industry as a whole, and it took many years for India to regain its position as a player in the global semiconductor market.
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/five.png" alt="Alt Text">
+    <figcaption class="caption">Impact of a fire in a Semiconductor Fab</figcaption>
+</p>
 
 The report had the following findings:
 
@@ -119,7 +130,10 @@ In addition, India would have been able to reduce its dependence on imported sem
 # India Semiconductor Mission
 
 In September 2022, the Ministry of Electronics & Information Technology (MeitY) introduced a new semiconductor policy to foster investments in semiconductor and display fabrication in India. The program offers enhanced incentives, including an outlay of ₹76,000 crores ($10 billion), with the government providing eligible applicants 50% financial support.
-
+<p align="center">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/six.png" alt="Alt Text">
+    <figcaption class="caption">Semicon India, 2023</figcaption>
+</p>
 The incentives extend to various semiconductor units like compound semiconductors, silicon photonics, sensors (including MEMS), and ATMP/OSAT units, with a target of establishing 20 such units under the scheme.
 
 In addition to the central government support, state-sponsored initiatives like Gujarat's, provide further assistance, reducing investors' required capital expenditure and increasing their stake in production.

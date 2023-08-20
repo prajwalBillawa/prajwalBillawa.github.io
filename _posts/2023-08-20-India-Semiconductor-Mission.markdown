@@ -33,7 +33,7 @@ A semiconductor is a material typically composed of silicon, exhibiting conducti
 Their conductivity and other properties can be altered with the introduction of impurities. 
 
 <p align="center">
-    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/one.jpg" alt="Alt Text">
+    <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/one.png" alt="Alt Text">
     <figcaption class="caption">A Semiconductor Chip</figcaption>
 </p>
 

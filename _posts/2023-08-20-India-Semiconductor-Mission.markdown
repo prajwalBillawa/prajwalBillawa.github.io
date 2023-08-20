@@ -1,7 +1,7 @@
 ---
 title: "India's Semiconductor Mission"
 layout: post
-date: 2018-20-24 22:30
+date: 2023-08-20 22:30
 image: /Blogs/2.ISM/images/panel.png
 headerImage: false
 hidden: false

@@ -142,7 +142,7 @@ In addition to the central government support, state-sponsored initiatives like 
 
 # Conclusion
 
-Foreign investment in India, in the chip manufacturing sector is still in its deliberation stage, the reason being it is yet to prove itself as a fertile ground for semiconductor manufacturing. But, once the machine gets running, we can expect India to be a hub for large scale chip manufacturing industries and consumer electronics.
+Foreign investment in the chip manufacturing sector is still in its deliberation stage, the reason being India is yet to prove itself as a fertile ground for semiconductor manufacturing. But, once the machine gets running, we can expect India to be a hub for large scale chip manufacturing industries and consumer electronics.
 
 We will have to learn from our past mistakes and recognize the importance of process safety while dealing with this complex industry. Compromising here, can lead to huge losses that we have already witnessed in the past.
 

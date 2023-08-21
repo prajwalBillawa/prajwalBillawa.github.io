@@ -50,7 +50,7 @@ The two largest economies, being US and China have significant capability in the
 ## India’s Plan on Semiconductors
 
 
-In pursuit of a vision of Atmanirbhar Bharat, India is seeking foreign investments for its indigenous semiconductor industry for the development and design of fabs, ATMP (Assembly, Testing, Marking and Packaging), among others. India's decades-old dream to become a semiconductor manufacturing hub is finally moving in the right direction. Building Indian capabilities in semiconductor manufacturing is imperative for industrial growth, digital sovereignty, technological leadership, national security, self-reliance and for India’s goals to be a significant player in the global electronics and semiconductor value chains.
+In pursuit of a vision of Atmanirbhar Bharat, India is seeking foreign investments for its indigenous semiconductor industry for the development and design of fabs, ATMP (Assembly, Testing, Marking and Packaging), among others. India's dream of becoming a hub for making computer chips is finally moving in the right direction. This is really important for India's growth in industries and keeping our digital independence. It also helps India be a big part of the worldwide electronics and computer chip industry.
 
 The vision of Atmanirbhar Bharat in electronics & semiconductors was given further momentum by the Union Cabinet, chaired by the Hon’ble Prime Minister, approving the Semicon India programme with a total outlay of INR 76,000 crore for the development of semiconductor and display manufacturing ecosystem in our country. This will serve to pave the way for India’s growing presence in the global electronics value chains.
 # The Modern-Era Cold War
@@ -75,22 +75,21 @@ India hosts major global semiconductor design firms, with R&D centres establishe
 China and Taiwan have cultivated robust ecosystems with extensive government backing, encompassing materials, machinery, manufacturing, testing, packaging, and sales. However, India's ecosystem is not yet on par, primarily due to scale and investment challenges.
 
 ## What it takes to build a Semiconductor Fab?
-Acknowledging high demand, it is not easy to ramp up the manufacturing of chips on short notice as it requires time to set up chip foundries. It is a difficult, expensive and time-consuming process. A report published in Bloomberg quint tells "Manufacturing a chip typically takes more than three months and involves giant factories, dust-free rooms, multi-million-dollar machines, molten tin and lasers.”
+Recognizing the substantial demand, quickly scaling up chip manufacturing is challenging due to the time needed to establish chip foundries. This process is complex, costly, and time-intensive. As highlighted in a Bloomberg Quint report, chip production generally spans over three months, involving expansive factories, controlled environments, high-value equipment, molten tin, and laser technologies.
 <p align="center">
     <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/three.png" alt="Alt Text">
     <figcaption class="caption">Intel Report on Building a Fab in Ireland</figcaption>
 </p>
-There are a lot of aspects to look into. This includes, sourcing lithography tools from global manufacturers, having suitable infrastructure such as a vast area of land, copious amounts of water, water recycling system, electricity lines, and labour power, among other things. Equipment alone can cost up to $2 billion. Adding to that, the infrastructural cost of setting up a fab will be about $200 million to $300 million. Plus, there will also be a technology transfer fee levied by the companies issuing the lithographic tools to the fabrication plants.
-
+Numerous factors require consideration, for example procuring lithography tools from international suppliers, establishing proper infrastructure including extensive land, ample water supply, water recycling systems, electricity connections, and a capable workforce. The equipment costs alone can reach up to $2 billion. Additionally, setting up a fabrication facility requires infrastructure expenses ranging from $200 million to $300 million. Moreover, companies providing lithographic tools to fabrication plants may impose technology transfer fees.
 # Case Study - Semiconductor Complex Limited
 
 ## Overview
-In the 1980s, the Indian government attempted to follow China, Taiwan, Malaysia, Korea, and Singapore in creating their own semiconductor manufacturing national champion.
+During the 1980s, the Indian government tried to follow countries like China, Taiwan, Malaysia, Korea, and Singapore in establishing their own national leader in semiconductor manufacturing.
 <p align="center">
     <img class="image" src="https://prajwalbillawa.github.io/Blogs/2.ISM/images/four.png" alt="Alt Text">
     <figcaption class="caption">Semiconductor Complex Limited, Mohali</figcaption>
 </p>
-SCL was formed to develop India's ambitions for establishing a semiconductor manufacturing industry. In 1976, the Indian Government approved the formation of SCL and production began in 1984. SCL aimed to design and manufacture cutting-edge circuits and electronics, serving as the foundation for a native Indian electronics industry. 
+SCL was established to fulfill India's aspirations of creating a semiconductor manufacturing sector. The Indian Government sanctioned the formation of SCL in 1976, and its production commenced in 1984. SCL's mission was to design and produce advanced circuits and electronics, laying the groundwork for a self-sustaining Indian electronics industry.
 
 ## Progress at SCL
 
@@ -122,11 +121,11 @@ The delay in resuming operations took a toll on SCL’s progress, and the govern
 
 ## If the Fire hadn’t Occurred
 
-If the fire at SCL had never happened, it is likely that India’s semiconductor industry would be much more developed today. SCL was a leading manufacturer of DRAM chips at the time of the fire, and it had the potential to become a major player in the global semiconductor market.
+If the fire incident at SCL had not occurred, India's semiconductor industry would likely be more advanced today. SCL was a top producer of DRAM chips back then, with the potential to become a major player globally.
 
-Without the fire, SCL would have been able to continue to develop its manufacturing capabilities and expand its product line. This would have led to increased investment in the Indian semiconductor industry, and it would have created jobs and opportunities for Indian engineers and scientists.
+Without the fire, SCL could have continued expanding its manufacturing abilities and product range. This would have attracted more investment in India's semiconductor industry, thus creating more job opportunities.
 
-In addition, India would have been able to reduce its dependence on imported semiconductors. This would have made the Indian economy more resilient to external shocks, and it would have helped to boost India’s manufacturing sector.
+Moreover, India could have become less reliant on imported semiconductors, strengthening its economy against external disruptions and boosting its manufacturing sector.
 
 
 # India Semiconductor Mission
@@ -143,7 +142,7 @@ In addition to the central government support, state-sponsored initiatives like 
 
 # Conclusion
 
-India has not been able to attract much foreign interest until now—the reason being it is yet to prove itself as a fertile ground for semiconductor manufacturing. But, once the machine gets running, we can expect India to host semiconductor plants for a wide range of technology nodes catering to a large scale of industries and consumer electronics.
+Foreign investment in India, in the chip manufacturing sector is still in its deliberation stage, the reason being it is yet to prove itself as a fertile ground for semiconductor manufacturing. But, once the machine gets running, we can expect India to be a hub for large scale chip manufacturing industries and consumer electronics.
 
 We will have to learn from our past mistakes and recognize the importance of process safety while dealing with this complex industry. Compromising here, can lead to huge losses that we have already witnessed in the past.
 
